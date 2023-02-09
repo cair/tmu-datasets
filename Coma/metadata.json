@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "file": "Coma.txt.xz",
+  "type": "table",
+  "options": {
+    "separator": ",",
+    "header": true
+  },
+  "preprocess": {
+    "enabled": true,
+    "type": "file",
+    "filename": "preprocess.py"
+  }
+}
